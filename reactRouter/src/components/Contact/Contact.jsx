@@ -36,7 +36,7 @@ function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                    Begusarai Bihar India
                                 </div>
                             </div>
 
@@ -58,7 +58,7 @@ function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +44 XXXXXXXX
                                 </div>
                             </div>
 
@@ -80,7 +80,7 @@ function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                    psharma532003@gmail.com
                                 </div>
                             </div>
                         </div>
